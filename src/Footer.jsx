@@ -21,7 +21,7 @@ const Footer = () => {
               Inquires@AcmeRockets.com
             </a>
             <br />
-            Phone: <a href="tel:+15555555555">(555) 555-5555</a>
+            Phone: <a href="tel:+15555555555">(555) 555-5576</a>
           </address>
           <nav className="hidden md:flex flex-col gap-2" aria-label="footer">
             <a href="#rockets" className="hover:opacity-90">
