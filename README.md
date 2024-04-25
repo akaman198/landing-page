@@ -2,6 +2,8 @@
 
 This project is a simple landing page created using TailwindCSS for styling and React.js for building the user interface.
 
+![Landing page Preview](https://github.com/akaman198/landing-page/blob/master/src/img/FullPage.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
